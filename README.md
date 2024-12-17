@@ -12,13 +12,10 @@ Welcome to my GitHub profile!
 - Bootstrap, Tailwind CSS
 
 **Backend:**
-- Python
+- Nodejs
+- expressjs
 
 **Tools & Platforms:**
 - GitHub
 - Termux
-- Linux (Arch Linux enthusiast!)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+- Linux 
